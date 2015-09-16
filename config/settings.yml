@@ -3,5 +3,5 @@ plugins:
     default: true
     client: true
   slms-topnav_contents:
-    default: This variable does nothing yet
+    default: <span>About | Join | Contact Us</span>
     client: true
