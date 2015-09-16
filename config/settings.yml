@@ -2,3 +2,6 @@ plugins:
   slms-topnav_enabled:
     default: true
     client: true
+  slms-topnav_contents:
+    default: ""
+    client: ""
