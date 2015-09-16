@@ -1,9 +1,0 @@
-plugins:
-  slms-topnav_enabled:
-    default: true
-    client: true
-  slms-topnav_contents:
-    default: |
-             Custom header test</br>
-             Please ignore me
-    client: true
