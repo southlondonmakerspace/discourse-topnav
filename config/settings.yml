@@ -3,5 +3,7 @@ plugins:
     default: true
     client: true
   slms-topnav_contents:
-    default: <span>About | Join | Contact Us</span>
+    default: |
+             Custom header test</br>
+             Please ignore me
     client: true
